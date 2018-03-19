@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Schmidt;Simon;;;
+FN:Simon Schmidt
+EMAIL;type=INTERNET;type=WORK;type=pref:info@simon-schmidt.net
+item1.URL;type=pref:http://simon-schmidt.net
+item1.X-ABLabel:_$!<HomePage>!$_
+CATEGORIES:FEINER&KLANG
+UID:a26f963a-47df-4268-871f-50b4fb277ec7
+X-ABUID:A26F963A-47DF-4268-871F-50B4FB277EC7:ABPerson
+END:VCARD
